@@ -35,4 +35,4 @@ To view your project, go to: [http://localhost:3000/](http://localhost:3000/)
 
 Link to playlist
 
-![playlist](https://www.youtube.com/watch?v=DiLVAXlVYR0&list=PL6gx4Cwl9DGBbSLZjvleMwldX8jGgXV6a)
+[playlist](https://www.youtube.com/watch?v=DiLVAXlVYR0&list=PL6gx4Cwl9DGBbSLZjvleMwldX8jGgXV6a)
