@@ -31,3 +31,8 @@ To view your project, go to: [http://localhost:3000/](http://localhost:3000/)
 - [Twitter](https://twitter.com/bucky_roberts)
 - [Google+](https://plus.google.com/+BuckyRoberts)
 - [reddit](https://www.reddit.com/r/thenewboston/)
+
+
+Link to playlist
+
+![playlist](https://www.youtube.com/watch?v=DiLVAXlVYR0&list=PL6gx4Cwl9DGBbSLZjvleMwldX8jGgXV6a)
